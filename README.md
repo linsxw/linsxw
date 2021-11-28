@@ -1,4 +1,7 @@
+<div align=center>
+
 # Hi there 👋
+![](https://komarev.com/ghpvc/?username=linsxw)
  
 ### I'm Awei.
 - 🌱 Java开发者 世界之大 Java最好 哈哈哈
@@ -11,4 +14,4 @@
 - 🌱 QQ:804636497
 - 🌱 WeChat: Lins_0129
 
-![](https://komarev.com/ghpvc/?username=linsxw)
+</div>
