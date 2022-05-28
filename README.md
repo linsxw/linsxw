@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="小伟同学." src="https://q1.qlogo.cn/g?b=qq&nk=14929804&s=100" width=100 />
+<img alt="小伟同学." style="border-radius:50%;" src="https://q1.qlogo.cn/g?b=qq&nk=14929804&s=100" width=100 />
 
 # Hi, this is Good wei. :wave:
 
@@ -21,8 +21,17 @@
  </div>
 
 
-<p>
 
+ 
+# 项目 🎉
+ **面试小能手**：[doc.xhany.cn](https://doc.xhany.cn/)
+ **博客**：[www.xhany.cn](https://www.xhany.cn/)
+ 
+ 
+ <p>
+
+  
+# 技术栈
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
@@ -35,7 +44,4 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
 
 </p>
- 
-面试小能手：[doc.xhany.cn](https://doc.xhany.cn/)
- 
 </div>
