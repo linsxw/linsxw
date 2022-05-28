@@ -1,9 +1,10 @@
 <div>
 
+<p align="center">
 <img alt="小伟同学." style="border-radius:50%;" src="https://q1.qlogo.cn/g?b=qq&nk=14929804&s=100" width=100 />
+</p>
 
-# Hi, this is Good wei. :wave:
-
+# Hi, this is Awei. :wave:
 
 浏览量：![Profile View Counter](https://komarev.com/ghpvc/?username=linsxw)
  
@@ -17,7 +18,9 @@
 
 ## 联系
  
+<p align="center">
 <img src="https://pic1.xuehuaimg.com/proxy/https://cdn.jsdelivr.net/gh/linsxw/doc-images/img/202205281856155.jpg" width="200">
+</p>
 
  
 # 项目 🎉
