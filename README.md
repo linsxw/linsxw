@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 
 <p align="center">
 <img alt="小伟同学." style="border-radius:50%;" src="https://q1.qlogo.cn/g?b=qq&nk=14929804&s=100" width=100 />
