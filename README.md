@@ -3,7 +3,7 @@
 <!-- 个人资料 -->
 <p align="center"> 
 <a href="https://www.xhany.cn/" target="_blank"><img  align="center" src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>&emsp;
-<a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=linsxw&abbreviated=true"/></a>
+<a href="https://komarev.com/ghpvc/?username=linsxw&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=linsxw&abbreviated=true"/></a>
 </p>
 
 ## 基本信息👤    
