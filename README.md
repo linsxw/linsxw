@@ -28,9 +28,7 @@
  
 </p>
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsxw&locale=cn&line_height=33&theme=&langs_count=5"/>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=linsxw&locale=cn&line_height=33&show_icons=true&hide=stars,prs,issues,contribs,commits&theme=&rank_icon=default"/>
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=linsxw&repo=naive-admin-pro&theme=dark)
 
 </div>
 
