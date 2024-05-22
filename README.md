@@ -24,8 +24,7 @@
  
 <p>
  
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=linsxw&repo=naive-admin-pro&theme=dark)
  
 </p>
 
