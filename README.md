@@ -28,9 +28,12 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
  
 </p>
- 
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsxw&locale=cn&line_height=33&theme=&langs_count=5"/>
+
+<img  src="https://github-readme-stats.vercel.app/api?username=linsxw&locale=cn&line_height=33&show_icons=true&hide=stars,prs,issues,contribs,commits&theme=&rank_icon=default"/>
+
 </div>
 
-<div style="display:flex;justify-content:space-evenly;">
- <img  src="https://github-readme-stats.vercel.app/api?username=linsxw&locale=cn&line_height=33&show_icons=true&hide=stars,prs,issues,contribs,commits&theme=&rank_icon=default"/><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsxw&locale=cn&line_height=33&theme=&langs_count=5"/>
-</div>
+
+
