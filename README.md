@@ -24,7 +24,7 @@
  
 <p>
  
-![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=linsxw&repo=naive-admin-pro&theme=dark)
+![GitHub仓库信息卡片](https://github-stats.ubrong.com/api/pin/?username=linsxw&repo=naive-admin-pro)
  
 </p>
 
